@@ -1,27 +1,28 @@
 # Stanford Splash
 
 ## 2014 Fall
-
+This was the first Splash class that I ever taught. Although I came in to Stanford dead set on studying materials science, I really enjoyed math and had a lot of exposure to math competitions during high school. Therefore, I decided to teach a combinatorics class on Pascal's triangle.
 
 ## 2015 Spring
-
+At this point I had already taken some of the materials science core courses, so I decided to teach a materials science course on crystal structures and material classes. I found the lecture format from the Fall not very engaging, so I incorporated an activity where the students used marshmallows and toothpicks to build their own BCC and FCC unit cells. Unfortunately, the version of PowerPoint I used was too old and now I can't find a quick way to open it. Fortunately, I taught the same class with some small modifications the following Fall, and that PowerPoint still works for me.
 
 ## 2015 Fall
-
+As mentioned above, I loved the materials science class so much that I decided to teach it again. I also subbed for a class (the original teacher cancelled the class) on US-China relations, so I quickly put some slides together discussing the history of China, Nixon-Mao relations, and then Obama-Xi relations. It was pretty fun, and the students and I had some interesting discussions, such as the battleships in the South China Sea.
 
 ## 2016 Spring
-
+This was one of my more ambitious times as a teacher. I taught a new class on writing Chinese characters, going over their history and pictoral origins. The class was aimed at beginners and just meant to intrigue them about the language. I don't think I structured the class particularly well, as mixing lecture and writing made students lose focus. I also substituted two more classes, one on nanomachines (primarily in biomedicine) and the other on electrons. Both of them went OK, as I had some experience as a materials science student, and it was good teaching experience. I also moderated an engineering panel where students asked questions of Stanford engineering students (undergrad and PhD) from a variety of departments.
 
 ## 2016 Fall
-
+In Winter 2016, so sophomore year, I studied abroad in Florence, Italy. I loved it so much, I decided to teach a class on Italian art, architecture, and food (I know, alliteration FAIL). The class ended with the students doing an activity where they used popsicle sticks to build a free-standing bridge. This activitiy was inspired by the Leonardo da Vinci museum that I visited while in Florence. Overall, I found any sort of interactive exercise to be helpful with Splash classes, and classes in general. Unfortunately, I seem to have misplaced the PowerPoint. *Sad*. I also moderated the engineering panel again, but this time I made sure to invite undergrad panelists who could relate more to the middle and high school students.
 
 ## 2017 Spring
-
+I reprised my Chinese character writing class, and this time things went a lot smoother. I also taught a new class on solving Fermi problems, which was a Science Olympiad event that I did in high school. The class ended with a competition to see which pair could score the highest on a couple of estimation problems. The students got pretty into it, from what I could tell. It was great to see students so engaged with the activities. I also moderated a sports and recreation panel.
 
 ## 2017 Fall
-
+This was my senior Fall Quarter, and my younger brother (9th grade at the time) came to Stanford Splash (from St. Louis, MO). Between worrying about him and class/research commitments, this was the first Splash where I did not teach any classes. I did help our Student Experience chair Derry create a digital survey that teachers could ask students to fill out after their class to collect feedback. Our implementation wasn't great from what I recall, but it did impress upon me the importance of collecting feedback during the teaching process.
 
 ## 2018 Spring
-
+This was Spring Quarter of senior year, and during the Winter I took Social Dance III with Richard Powers and was hooked on dancing. I was in Social Dance II at the time, I had gone to Viennese Ball, and I regularly attended dance events. In the hopes of learning how to dance better, I decided to teach my first dance class, and (mistakenly) chose rotary waltz to teach with my former co-President of Splash, Ariel Leong. She had also taken Social Dance I before and we danced together at VBall. We had a lot of fun, and so did our students, even if rotary wasn't quite mastered. Definitely realized after that how much fun teaching dance would be.
 
 ## 2018 Fall
+This was my last Splash as a Stanford student, and I taught Introduction to West Coast Swing with my friend Elaine Lui, a former Splash admin. This was a modified version of the class I taught at Berkeley Splash a month prior, based on some of my observations and taking into account program differences. Having a follow who also danced (and better than I did!) was extremely helpful, and it looked like the students got something out of it.
